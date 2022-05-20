@@ -9,7 +9,7 @@ namespace CampeonBarrio5
     class Jugador
     {
         //Atributos
-
+        private string Años;
         private string nombre;
         private int campañas, puntos;
         private float promedio;
